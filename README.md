@@ -29,4 +29,4 @@
 #### 6.Была проверена работоспособность сети - с ПК4 был отправлен пинг на ПК11.
 #### 7.Была проверена работоспособность сайта - с ПК8
 #### 8.[Файл модели сети](https://github.com/SaidazimM/stankin-22-04/blob/f278fbb131acf81f2ea2e2a91cb8d6753f3438a1/%D0%9C%D1%83%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%20%D0%A1.%D0%A1.pkt)
-#### 9.[Скриншот локальной сети](https://github.com/SaidazimM/stankin-22-04/tree/main/Cisco)
+#### 9.[Скриншоты локальной сети](https://github.com/SaidazimM/stankin-22-04/tree/main/Cisco)
