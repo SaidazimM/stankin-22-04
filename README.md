@@ -41,3 +41,4 @@
 Ответ на экзаменационный билет:
 [Билет №13](https://github.com/stankin/inet-2022/wiki/exam13)
 ### (В конкурсе  участвую)
+### [commit](https://github.com/stankin/inet-2022/wiki/exam13/_compare/76f7bed82c1f51b46f77cdf25d6020ce281da239...d9e4b379ded353d77157a97421cbd217f1d2cb07)
